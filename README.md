@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## ENVs
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY="pk_test_xxx"
+STRIPE_SECRET_KEY="sk_test_xxx"
+FRONTEND_BASE_URL="http://localhost:3000"
+
 ## Getting Started
 
 First, run the development server:
